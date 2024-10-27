@@ -274,7 +274,7 @@ const projects = [
     ],
     image: portfolio,
     hosted_link:
-      "",
+      "https://github.com/SaranshGupta123/3D-Portfolio",
   },
 ];
 
